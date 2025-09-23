@@ -6,3 +6,6 @@ pretraining_on_unlabelled_data/gpt2
 pretraining_on_unlabelled_data/model*
 __pycache__/
 *.pyc
+finetuning_for_classification/
+!finetuning_for_classification/classification_finetuning.ipynb
+=*
