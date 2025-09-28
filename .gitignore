@@ -9,3 +9,5 @@ __pycache__/
 finetuning_for_classification/*
 !finetuning_for_classification/classification_finetuning.ipynb
 =*
+finetuning_for_instruction_following/*
+!finetuning_for_instruction_following/instruction_finetuning.ipynb
